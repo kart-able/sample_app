@@ -14,7 +14,7 @@ is available jointly under the MIT License and the Beerware License. See
 ## Getting started
 
 To get started with the app, clone the repo and then install the needed gems:
-
+(personally I had to use bcrypt-ruby 3.1.5 instead of bcrypt 3.1.11)
 ```
 $ bundle install --without production
 ```
